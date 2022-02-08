@@ -1,0 +1,17 @@
+UNIDAD 1
+Introducción a la programación
+
+Las computadoras utilizan el sistema binario como lenguaje. El sistema binario es un sistema númerico que es representado por dos numero: 1 y 0. Hay formas de convertir numeros decimales a binario y viceversa. 
+Para facilitar la comunicación entre una computadora y el usuario, se han empleado diferentes lenguajes de programación, los cuales son más fáciles de comprender en comparación con el código binario. Lo que hacen los lenguajes de programación es utilizar palabras más entendibles para el usuario, y convertir estas palabras o instrucciones a código binario para que la computadora los ejecute. 
+
+La lógica en programación es muy importante, ya que ésta nos dará los lineamientos para poder determinar si un razonamiento es verdadero o falso. Además, hacer uso de algoritmos (pasos bien definidos, lógicos y ordenados para realizar alguna acción) va a ayudarnos a poder realizar lo que deseamos a la hora de programar.
+
+Hay diferentes softwares que nos ayudan a tener un entorno de trabajo más cómodo, y con herramientas demasiado útiles para programar como IDE´s y editores de textos.
+
+ANÁLISIS:
+
+La programación nos ayuda a desarollar nuestra capacidad para resolver problemas, a su vez, esto nos ayuda en nuestro diario vivir ya que de una u otra forma siempre nos vamos a afrontar a obstaculos. 
+
+Por otro lado, al implementar los algoritmos nos podemos dar cuenta que nos facilitan cualquier proceso, ya que estos son pasos simples y que se pueden repetir. Por ejemplo, al darle mantenimiento a un computador, al limpiar un automovil, realizar una actividad en nuestro lugar de trabajo, o al aprender a utilizar alguna maquina que desconocemos. Incluso, puede que realicemos alguna activida y sin darnos cuenta podemos estar utilizando algún algoritmo que nos está ayudando a hacerlo de una manera correcta. 	
+
+Así mismo, saber cómo funciona una computadora y cómo se comunica, nos da una idea más clara de qué es lo que estamos haciendo a la hora de programar. Esto va de la mano con la lógica y los algoritmos, porque mediante estos podemos tener claro qué es lo que queremos decirle a la computadora para que posterior a ello lo ejecute.
