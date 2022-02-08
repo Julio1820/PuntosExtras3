@@ -1,0 +1,13 @@
+UNIDAD 3
+Introducción a los controladores de versiones
+
+Un controlador de versiones es un programa que lleva el resgistro de todos los cambios realizados en un archivo que contenga algún código en específico, ya sea para poder recuperar alguna versión de ese mismo código o bien para comparar con versiones anteriores. Quienes escriben código y no han empleado un controlador de versiones, se les puede dificultar tener organizado cada versión de su código, ya sea una versión funcional, una con errores, o una mejorada. Esto es aún más complicado si más de una persona tiene acceso al código y lo pueda modificar. De ahí la importancia de llevar un control de estos archivos
+
+Entre los más conocidos está Git.
+Git es un sistema de control de versiones de código abierto y gratuito, muy eficiente.
+
+ANÁLISIS:
+
+En una empresa es muy importante llevar registro de cualquier actividad para llevar un control de la actividad que se realiza. Por ejemplo si hablamos de una empresa que se dedica a producir productos farmacéuticos, es necesario que se tenga control de sus productos por si se llega a tener un reclamo de un cliente.
+
+En programación, llevar un control de lo que hacemos tiene muchos beneficios, ya que podemos ver en cada registro lo que hicimos, o si queremos recuperar algún archivo en especial. Podemos realizar backups que también es importante en informática.
