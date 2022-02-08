@@ -1,4 +1,4 @@
-UNIDAD 1
+### UNIDAD 1
 Introducción a la programación
 
 Las computadoras utilizan el sistema binario como lenguaje. El sistema binario es un sistema númerico que es representado por dos numero: 1 y 0. Hay formas de convertir numeros decimales a binario y viceversa. 
