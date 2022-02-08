@@ -1,0 +1,39 @@
+UNIDAD 2
+Conceptos básicos para programar
+
+Variables: Como bien lo describe su nombre, son datos que pueden cambiar en el proceso de ejecución de un programa. Las variables deben de cumplir ciertos parámetros para que se puedan ejecutar (Esto también depende del lenguaje de programación que se utilice) como el que las variables no pueden llevar espacios entre carácteres, no deben de tener signos de puntuación, tampoco pueden ser longitudes extremadamente cortas ni largas, entre otros factores.
+
+Constantes: Son datos que no cambian en la ejecución de un programa.
+
+En cada lenguaje existen palabras que no se pueden utilizar como identificadores. A estas se les llaman "Palabras reservadas".
+ 
+Hay diferentes tipos de datos: numéricos, lógicos, carácter.
+
+Datos numéricos: son un subconjunto finito de números. Va a depender del lenguaje de programación que haya distinción de números enteros y decimales. Se pueden operar de diferentes maneras como operaciones aritméticas, operaciones comparativas
+
+Datos lógicos: Estos representa un valor verdadero o falso( 1 y  0).
+
+Datos carácter: Se puede declarar ya sea como cadena de carácteres, o un solo carácter.
+
+En programación hay diferentes estructuras de control de condicionales:
+
+-If: Esta instrucción va de la mano con las operaciones comparativas y realiza la acción que se le indique solamente cuando la condición sea verdadera o, en otras palabras, cuando la condición se cumpla.
+
+-If… else: Esta instrucción realiza lo mismo que “If” con la diferencia de que si no se cumple la primera condición se realiza otra acción. 
+
+-If… else if… else: Esta instrucción se utiliza cuando la primera condición no se cumple y por lo tanto haya más condiciones que queramos comprobar para realizar una acción determinada.
+
+-Switch case: Esta condicional se utiliza cuando hay varios casos, en los que se debe de escoger un caso, dependiendo del valor que tenga el dato a verificar. 
+
+También existen estructuras de control de bucles:
+
+-For: Esta estructura tiene una condición determinada de cuantas veces se va repetir las instrucciones proporcinadas.
+
+-While: Esta estrictura se repite mientras se cumple una condición, la cuál se puede repetir infinitamente.
+
+
+ANÁLISIS:
+
+En la vida diaria existen situaciones que nos pueden llegar a condicionar, como: si está lloviendo, entonces no puedo salir. Y si salgo, tengo que llevar paraguas. O repetir procedimientos, como lo es encender el carro en la mañana para calentar el motor, ya es un ciclo que se repite todas las mañanas al utilizar un automovil.
+
+En programación, es indispensable utilizar todo tipo de datos y de esctructuras condicionales, así como los bucles. A partir de estos se puede construir muchos softwares con distintas funciones y para diferentes propositos, ya que son la base de un código fuente.
